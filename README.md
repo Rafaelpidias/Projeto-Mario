@@ -2,7 +2,9 @@
 <br>
 <br>
 <h2>Esse é um segundo projeto que aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
-<p>Um aprendizado bem bacana!com o básico de três tecnologias, já se pode transformar muitos elementos!</p>
+<p>Um aprendizado bem bacana!com o básico de três tecnologias, já se pode transformar muitos elementos!
+Nesse projeto consegui aprender mais sobre inserção de vídeos e, conceito de máscara.
+</p>
 <img src="https://github.com/Rafaelpidias/Projeto-Mario/blob/main/img/Printmario.PNG?raw=true" width="600px">
 <br>
 <h2>Tecnologias usadas:</h2>
