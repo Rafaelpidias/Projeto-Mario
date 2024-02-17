@@ -11,7 +11,7 @@ Nesse projeto consegui aprender mais sobre inserção de vídeos e, conceito de 
 
 <h2>Design responsivo</h2>
 <br>
-<img height="500px" width="400px" src="" alt="responsive-img">
+<img height="400px" width="200px" src="https://github.com/Rafaelpidias/Projeto-Mario/blob/main/img/responsivo_mario.png?raw=true" alt="responsive-img">
 <br>
 <h2>Tecnologias usadas:</h2>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
